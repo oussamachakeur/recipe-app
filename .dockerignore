@@ -1,0 +1,16 @@
+#git 
+.git
+.gitignore
+
+#docker 
+.docker 
+
+#python 
+app/__/pycash__/
+app/*/__/pycash__/
+app/*/*/__/pycash__/
+app/*/*/*/__/pycash__/
+.env/
+.venv/
+venv/
+
